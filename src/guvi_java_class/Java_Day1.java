@@ -22,7 +22,17 @@ public class Java_Day1 {
 		
 		String str = "Hello_World";
 		
+		byte byteLongNum = 127;
 		
+		short shortLongNum = 32767;
+		
+		int intLongNum = 2147483647;
+		
+		long longLargestNum = 922337203;
+		
+		float floatDecimal = 6.12345678910123456789010123456789010f;
+		
+		double doubleDecimal = 7.123456789010123456789010123456789010;
 	}
 
 }
