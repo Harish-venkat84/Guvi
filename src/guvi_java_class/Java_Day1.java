@@ -33,9 +33,6 @@ public class Java_Day1 {
 		float floatDecimal = 6.12345678910123456789010123456789010f;
 		
 		double doubleDecimal = 7.123456789010123456789010123456789010;
-		
-//		checking the git repo working on eclipse
-		
 	}
 
 }
