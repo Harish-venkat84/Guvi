@@ -55,6 +55,17 @@ public class Java_Day4 {
 			
 		}
 		
+		int num = 987;
+		
+		String valueOf = String.valueOf(num);
+		
+		StringBuilder bul = new StringBuilder(valueOf);
+		
+		bul.reverse();
+		
+		int parseInt = Integer.parseInt(bul.toString());
+		
+		System.out.println(parseInt);
 		
 	}
 
