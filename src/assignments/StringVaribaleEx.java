@@ -1,15 +1,9 @@
 package assignments;
 
-public class Palindrome extends Java_String_Assignments {
+public class StringVaribaleEx {
 
 	public static void main(String[] args) {
 
-		Palindrome obj = new Palindrome();
-		
-		System.out.println(obj.checkPalindrome("madam"));
-		System.out.println(obj.checkPalindrome("Mom"));
-		System.out.println(obj.checkPalindrome("tacocat"));
-		
 		String str1 = "Java";
 		
 		String str2 = "Language";
