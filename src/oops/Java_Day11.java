@@ -1,4 +1,4 @@
-package guvi_java_class;
+package oops;
 
 class ASample {
 
@@ -32,7 +32,7 @@ class ASample {
 
 }
 
-public class Java_Day10 {
+public class Java_Day11 {
 	
 	public ASample name3() {
 

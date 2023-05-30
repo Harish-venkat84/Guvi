@@ -1,10 +1,10 @@
 package assignments;
 
-import guvi_java_class.Java_Day10;
+import oops.Java_Day10_oops;
 
 //import java.util.Scanner;
 
-public class StringAssignments extends Java_Day10 {
+public class StringAssignments extends Java_Day10_oops {
 	
 	
 	public static String[] strArray = new String[100];
