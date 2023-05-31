@@ -14,6 +14,8 @@ public class Java_Day9_StringBuilder_Buffer {
 		
 		sb.delete(0, 4);
 		
+		sb.deleteCharAt(1);
+		
 		sb.replace(6, 11, "java");
 		
 		String str = sb.substring(0, 5);
