@@ -38,15 +38,19 @@ public class Java_Day16 extends SuperEx{
 	final String month = "june";
 
 	void mon() {
+
+		super.age = 102;
 		
 //		month = "July";   you can't change the final variables
 	}
 	
 	public static void main(String[] args) {
 		
-		Java_Day16 ja = new Java_Day16();
+		Java_Day16 j = new Java_Day16();
 		
-		System.out.println(ja.age);
+		j.mon();
+		
+		System.out.println(j.age);
 		
 		
 	}
