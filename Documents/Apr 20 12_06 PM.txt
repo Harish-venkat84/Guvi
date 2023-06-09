@@ -1,0 +1,10 @@
+Write a Blog on the below topics
+
+1. What are the different phases in SDLC
+2. What are the different phases in STLC
+
+3. What are the different testing types and give a brief on the same [speak about blackbox, white and grey testing. Also about smoke, sanity, regression, performance testing etc]
+
+STLC - https://www.simform.com/blog/functional-testing-types/
+
+SDLC - https://www.simform.com/blog/software-development-life-cycle/

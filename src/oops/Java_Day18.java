@@ -31,6 +31,14 @@ class vehicalDetails {
 		
 	}
 	
+	void javaJD(){
+		
+	}
+	
+	{
+		javaJD();
+	}
+	
 	static int aa;
 	static int bb;
 	
@@ -67,3 +75,5 @@ public class Java_Day18 {
 	}
 
 }
+
+
