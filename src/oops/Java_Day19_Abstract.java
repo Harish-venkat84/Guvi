@@ -12,6 +12,8 @@ abstract class Java {
 
 	abstract void hello();
 	
+//	abstract void demoAbstract();
+		
 	static int a = 0;
 	
 	static final int bb = 0;
